@@ -9,7 +9,7 @@
 <body>
 	<header>랄랄라
 	</header>
-	<article>
+	<article>울랄라~
 	</article>
 	<footer>
 	</footer>
