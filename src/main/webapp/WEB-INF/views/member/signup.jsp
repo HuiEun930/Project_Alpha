@@ -4,17 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>알파 홈페이지</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<header>랄랄라
-		<div>회원가입</div>
-	</header>
-	<article>울랄라~
-	</article>
-	<footer>
-	</footer>
-
 
 </body>
 </html>
