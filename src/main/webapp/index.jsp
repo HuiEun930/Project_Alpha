@@ -9,6 +9,7 @@
 <body>
 	<header>랄랄라
 		<div>회원가입</div>
+		<div>관리자</div>
 	</header>
 	<article>울랄라~
 	</article>
